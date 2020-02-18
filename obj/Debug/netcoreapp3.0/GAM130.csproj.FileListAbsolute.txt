@@ -1,0 +1,11 @@
+S:\GAM130\obj\Debug\netcoreapp3.0\GAM130.csprojAssemblyReference.cache
+S:\GAM130\obj\Debug\netcoreapp3.0\GAM130.AssemblyInfoInputs.cache
+S:\GAM130\obj\Debug\netcoreapp3.0\GAM130.AssemblyInfo.cs
+S:\GAM130\bin\Debug\netcoreapp3.0\GAM130.exe
+S:\GAM130\bin\Debug\netcoreapp3.0\GAM130.deps.json
+S:\GAM130\bin\Debug\netcoreapp3.0\GAM130.runtimeconfig.json
+S:\GAM130\bin\Debug\netcoreapp3.0\GAM130.runtimeconfig.dev.json
+S:\GAM130\bin\Debug\netcoreapp3.0\GAM130.dll
+S:\GAM130\bin\Debug\netcoreapp3.0\GAM130.pdb
+S:\GAM130\obj\Debug\netcoreapp3.0\GAM130.dll
+S:\GAM130\obj\Debug\netcoreapp3.0\GAM130.pdb
