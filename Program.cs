@@ -12,11 +12,13 @@ namespace UDPServer
         static void Main(string[] args)
         {
             Server server = new Server(listenPort);
-            Client client = new Client(listenPort);
+            Client client = new Client(listenPort, "Luke");
 
-            client.SendData("Hello world!");
+            // string data = "Print -> Hello World!";
+
+            // client.SendData(data);
             server.ReceiveData();
-
+            
             // Test();
             // Tutorial();
         }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\GAM130\\GAM130.csproj",
+      "projectUniqueName": "D:\\Glass-Nomad\\udp-server\\GAM130.csproj",
       "projectName": "GAM130",
-      "projectPath": "S:\\GAM130\\GAM130.csproj",
+      "projectPath": "D:\\Glass-Nomad\\udp-server\\GAM130.csproj",
       "packagesPath": "C:\\Users\\ld227707\\.nuget\\packages\\",
-      "outputPath": "S:\\GAM130\\obj\\",
+      "outputPath": "D:\\Glass-Nomad\\udp-server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

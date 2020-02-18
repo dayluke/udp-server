@@ -9,3 +9,14 @@ S:\GAM130\bin\Debug\netcoreapp3.0\GAM130.dll
 S:\GAM130\bin\Debug\netcoreapp3.0\GAM130.pdb
 S:\GAM130\obj\Debug\netcoreapp3.0\GAM130.dll
 S:\GAM130\obj\Debug\netcoreapp3.0\GAM130.pdb
+D:\Glass-Nomad\udp-server\bin\Debug\netcoreapp3.0\GAM130.exe
+D:\Glass-Nomad\udp-server\bin\Debug\netcoreapp3.0\GAM130.deps.json
+D:\Glass-Nomad\udp-server\bin\Debug\netcoreapp3.0\GAM130.runtimeconfig.json
+D:\Glass-Nomad\udp-server\bin\Debug\netcoreapp3.0\GAM130.runtimeconfig.dev.json
+D:\Glass-Nomad\udp-server\bin\Debug\netcoreapp3.0\GAM130.dll
+D:\Glass-Nomad\udp-server\bin\Debug\netcoreapp3.0\GAM130.pdb
+D:\Glass-Nomad\udp-server\obj\Debug\netcoreapp3.0\GAM130.csprojAssemblyReference.cache
+D:\Glass-Nomad\udp-server\obj\Debug\netcoreapp3.0\GAM130.AssemblyInfoInputs.cache
+D:\Glass-Nomad\udp-server\obj\Debug\netcoreapp3.0\GAM130.AssemblyInfo.cs
+D:\Glass-Nomad\udp-server\obj\Debug\netcoreapp3.0\GAM130.dll
+D:\Glass-Nomad\udp-server\obj\Debug\netcoreapp3.0\GAM130.pdb
